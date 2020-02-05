@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guess the number V1.0</string>
+    <string name="LblEnterName">Enter a number between 1 and 100 : </string>
+    <string name="LblCompare">Compare </string>
+    <string name="strSmaller">Enter a smaller number</string>
+    <string name="strBigger">Enter a bigger number</string>
+    <string name="strCongratulations">Congratulations, you won in %d attempts.</string>
+    <string name="strYes">Yes</string>
+    <string name="strNo">No</string>
+
+</resources>
